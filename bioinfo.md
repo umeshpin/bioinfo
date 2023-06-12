@@ -1,4 +1,4 @@
-# R for Biinformatics 
+# R for Bionformatics 
 
 
 ```install packages
