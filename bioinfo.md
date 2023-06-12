@@ -1,7 +1,7 @@
 # R for Bionformatics 
 Data
 https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
-
+or https://drive.google.com/drive/u/0/folders/1P0871RmvCYoec5i7xmU3vyrjuD8OKbb3
 
 Using this dataset of 32 variables measuring the size and shape of cell nuclei, goal is to create a model that will allow us to predict whether a breast cancer cell is benign or malignant.
 Data set description
